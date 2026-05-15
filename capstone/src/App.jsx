@@ -17,7 +17,7 @@ function App() {
         </div>
         <div className="info-box">
           <p>Open 24/7... Including weekends and holidays</p>
-          <p>Operating in SC, NC, FL, GA, TN, CT, LA, MS</p>
+          <p>Operating in SC, NC, FL, TN, CT, LA, MS</p>
           <p>(843)-240-9240</p>
         <a href="mailto:Stanleybailbondsllc@gmail.com">Stanleybailbondsllc@gmail.com</a><br />
         </div>

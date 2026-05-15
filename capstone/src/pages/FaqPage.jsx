@@ -50,7 +50,7 @@ const faqData = [
     },
     {
       question: 'Where are we located?',
-      answer: 'We are a mobile business based in Georgetown, South Carolina, and we meet cleints at a convenient mutual location.',
+      answer: 'We are a mobile business based in Georgetown, South Carolina, and we meet clients at a convenient mutual location.',
     },
 ];
 

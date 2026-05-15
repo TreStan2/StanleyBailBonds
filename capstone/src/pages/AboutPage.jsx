@@ -13,7 +13,7 @@ function AboutPage() {
             <p className='owner-background'>
               {/*Description of the company and its services */}
               Stanley Bail Bonds LLC was formed in 2012, in Georgetown, SC.
-              Our services, however, span much farther reaching across several states, including SC, NC, FL, GA, TN, CT, LA, &amp; MS.
+              Our services, however, span much farther reaching across several states, including SC, NC, FL, TN, CT, LA, &amp; MS.
             </p>
             <h1 className="owner-name">Owner: Michael Stanley</h1>
             <div className='owner-info'> {/* Container for owner information */}
